@@ -1,3 +1,4 @@
+[URL : http://data.sparkfun.com/lowellmakes ]
 var request = require('request');
 var SerialPort = require("serialport");
 var serialport = new SerialPort("/dev/tty.usbmodem1421", {
